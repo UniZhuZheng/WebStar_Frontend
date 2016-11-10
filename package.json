@@ -1,0 +1,11 @@
+{
+	"name": "WebStar",
+	"version": "1.0.0",
+	"dependencies": {
+	},
+	"devDependencies": {
+		"config": "^1.21.0",
+		"grunt": "^1.0.0",
+		"grunt-contrib-connect": "~1.0.0"
+	}
+}
